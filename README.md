@@ -5,7 +5,7 @@
 
 <!-- TEXTO ANIMADO: cambia lo que va después de lines= (los espacios se escriben con +, y ; separa frases) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1200&color=3DDCFF&center=true&vCenter=true&width=700&height=45&lines=hola,+soy+Gaby;Ingenier%C3%ADa+F%C3%ADsica+Industrial+%40+Tec;f%C3%ADsica+%C2%B7+cheer+%C2%B7+mucho+brillo" alt="texto animado">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1200&color=3DDCFF&center=true&vCenter=true&width=700&height=45&lines=hey,+im+gabs;BS+Engineering+Physics%40+Tec;physics+%C2%B7+cheer+%C2%B7+music" alt="texto animado">
 </p>
 
 ## ✦ sobre mí
