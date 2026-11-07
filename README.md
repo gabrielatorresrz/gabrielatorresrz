@@ -1,4 +1,59 @@
-## Hi there 👋
+<!-- PORTADA: cambia el nombre del archivo por el de tu foto -->
+<p align="center">
+  <img src="assets/portada.jpg" alt="Gaby" width="100%">
+</p>
+
+<!-- TEXTO ANIMADO: cambia lo que va después de lines= (los espacios se escriben con +, y ; separa frases) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1200&color=3DDCFF&center=true&vCenter=true&width=700&height=45&lines=hola,+soy+Gaby;Ingenier%C3%ADa+F%C3%ADsica+Industrial+%40+Tec;f%C3%ADsica+%C2%B7+cheer+%C2%B7+mucho+brillo" alt="texto animado">
+</p>
+
+## ✦ sobre mí
+
+<!-- Tu bio: 2 a 4 líneas, con tu tono -->
+ESCRIBE AQUÍ TU BIO
+
+## ✦ mis herramientas
+
+![Python](https://img.shields.io/badge/Python-0039A6?style=for-the-badge&logo=python&logoColor=F7F3FF)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF3EA5?style=for-the-badge&logo=mathworks&logoColor=F7F3FF)
+![LaTeX](https://img.shields.io/badge/LaTeX-3DDCFF?style=for-the-badge&logo=latex&logoColor=070A1F)
+![Excel](https://img.shields.io/badge/Excel-0039A6?style=for-the-badge&logo=microsoftexcel&logoColor=F7F3FF)
+![Google Colab](https://img.shields.io/badge/Colab-FF3EA5?style=for-the-badge&logo=googlecolab&logoColor=F7F3FF)
+![VS Code](https://img.shields.io/badge/VS_Code-3DDCFF?style=for-the-badge&logo=visualstudiocode&logoColor=070A1F)
+
+## ✦ cosas que he hecho
+
+<!-- Copia este bloque por cada proyecto -->
+**[NOMBRE DEL PROYECTO](https://github.com/gabrielatorresrz/NOMBRE-DEL-REPO)**: descripción corta de qué hiciste y qué aprendiste.
+
+**[NOMBRE DEL PROYECTO](https://github.com/gabrielatorresrz/NOMBRE-DEL-REPO)**: descripción corta.
+
+## ✦ fuera del lab
+
+<!-- GALERÍA: tres fotos en fila; width="32%" hace que quepan juntas -->
+<p align="center">
+  <img src="assets/foto1.jpg" width="32%">
+  <img src="assets/foto2.jpg" width="32%">
+  <img src="assets/foto3.jpg" width="32%">
+</p>
+
+ESCRIBE AQUÍ TUS HOBBIES
+
+![Cheer](https://img.shields.io/badge/Cheer-FF3EA5?style=for-the-badge&logo=starship&logoColor=F7F3FF)
+![Gym](https://img.shields.io/badge/Gym-0039A6?style=for-the-badge&logo=strava&logoColor=F7F3FF)
+
+## ✦ hablemos
+
+<!-- Borra el que no quieras usar -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0039A6?style=for-the-badge&logo=linkedin&logoColor=F7F3FF)](https://www.linkedin.com/in/TU-USUARIO)
+[![Email](https://img.shields.io/badge/Email-FF3EA5?style=for-the-badge&logo=gmail&logoColor=F7F3FF)](mailto:TU-CORREO)
+![visitas](https://komarev.com/ghpvc/?username=gabrielatorresrz&style=for-the-badge&color=3DDCFF&label=visitas)
+
+<!-- CIERRE: una última foto -->
+<p align="center">
+  <img src="assets/cierre.jpg" alt="cierre" width="100%">
+</p>
 
 <!--
 **gabrielatorresrz/gabrielatorresrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
