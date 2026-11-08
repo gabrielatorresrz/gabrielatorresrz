@@ -31,7 +31,7 @@ just a girl trying to navigate the student-athlete life
 <!-- GALERÍA: tres fotos en fila; width="32%" hace que quepan juntas -->
 <p align="center">
   <img src="assets/xout.jpeg" width="32%">
-  <img src="assets/cupie.jpeg" width="32%">
+  <img src="assets/gym.jpeg" width="32%">
   <img src="assets/ring.jpeg" width="32%">
 </p>
 
