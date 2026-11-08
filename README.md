@@ -47,7 +47,7 @@ just a girl trying to navigate the student-athlete life
 
 <!-- CIERRE: una última foto -->
 <p align="center">
-  <img src="assets/doble.gby.jpeg" alt="cierre" width="100%">
+  <img src="assets/doble.gby.jpeg" alt="cierre" width="60%">
 </p>
 
 <!--
