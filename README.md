@@ -14,11 +14,11 @@ just a girl trying to navigate the student-athlete life
 
 ## ✦ my skills
 <p align="center">
-  ![Python](https://img.shields.io/badge/Python-0039A6?style=for-the-badge&logo=python&logoColor=F7F3FF)
-  ![Git](https://img.shields.io/badge/Git-FF3EA5?style=for-the-badge&logo=mathworks&logoColor=F7F3FF)
-  ![LaTeX](https://img.shields.io/badge/LaTeX-3DDCFF?style=for-the-badge&logo=latex&logoColor=070A1F)
-  ![Excel](https://img.shields.io/badge/Excel-0039A6?style=for-the-badge&logo=microsoftexcel&logoColor=F7F3FF)
-  ![VS Code](https://img.shields.io/badge/VS_Code-3DDCFF?style=for-the-badge&logo=visualstudiocode&logoColor=070A1F)
+  <img src="https://img.shields.io/badge/Python-0039A6?style=for-the-badge&logo=python&logoColor=F7F3FF" alt="Python">
+  <img src="https://img.shields.io/badge/Git-FF3EA5?style=for-the-badge&logo=git&logoColor=F7F3FF" alt="Git">
+  <img src="https://img.shields.io/badge/LaTeX-3DDCFF?style=for-the-badge&logo=latex&logoColor=070A1F" alt="LaTeX">
+  <img src="https://img.shields.io/badge/Excel-0039A6?style=for-the-badge&logo=microsoftexcel&logoColor=F7F3FF" alt="Excel">
+  <img src="https://img.shields.io/badge/VS_Code-3DDCFF?style=for-the-badge&logo=visualstudiocode&logoColor=070A1F" alt="VS Code">
 </p>
 
 ## ✦ stuff i've done
