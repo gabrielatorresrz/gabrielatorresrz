@@ -45,10 +45,12 @@ just a girl trying to navigate the student-athlete life
 [![Email](https://img.shields.io/badge/Email-FF3EA5?style=for-the-badge&logo=gmail&logoColor=F7F3FF)](mailto:torresruizanagabriela@gmail.com)
 ![views](https://komarev.com/ghpvc/?username=gabrielatorresrz&style=for-the-badge&color=3DDCFF&label=visitas)
 
-<!-- CIERRE: una última foto -->
+<!-- CIERRE: una última foto
 <p align="center">
   <img src="assets/doble.gby.jpeg" alt="cierre" width="60%">
 </p>
+-->
+
 
 <!--
 **gabrielatorresrz/gabrielatorresrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
