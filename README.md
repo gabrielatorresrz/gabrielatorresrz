@@ -1,6 +1,6 @@
 <!-- PORTADA: cambia el nombre del archivo por el de tu foto -->
 <p align="center">
-  <img src="assets/portada.jpg" alt="Gaby" width="100%">
+  <img src="assets/poms.jpeg" alt="Gaby" width="100%">
 </p>
 
 <!-- TEXTO ANIMADO: cambia lo que va después de lines= (los espacios se escriben con +, y ; separa frases) -->
