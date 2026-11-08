@@ -1,12 +1,9 @@
 <!-- PORTADA: cambia el nombre del archivo por el de tu foto -->
 <p align="center">
-  <img src="assets/poms.jpeg" alt="Gaby" width="100%">
+  <img src="assets/poms.jpeg" alt="Gaby" width="60%">
 </p>
 
-<!-- TEXTO ANIMADO: cambia lo que va después de lines= (los espacios se escriben con +, y ; separa frases) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1200&color=3DDCFF&center=true&vCenter=true&width=700&height=45&lines=hey,+im+gabs;BS+Engineering+Physics%40+Tec;physics+%C2%B7+cheer+%C2%B7+music" alt="texto animado">
-</p>
+
 
 ## ✦ abt me
 
