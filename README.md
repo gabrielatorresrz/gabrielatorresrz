@@ -9,6 +9,8 @@
 
 <!-- Tu bio: 2 a 4 líneas, con tu tono -->
 just a girl trying to navigate the student-athlete life
+- 🔭 currently working on thermodynamics projects
+- 🌱 learning about AI and how to use it appropriately
 
 ## ✦ my skills
 
@@ -22,20 +24,16 @@ just a girl trying to navigate the student-athlete life
 ## ✦ stuff i've done
 
 <!-- Copia este bloque por cada proyecto -->
-**[NOMBRE DEL PROYECTO](https://github.com/gabrielatorresrz/NOMBRE-DEL-REPO)**: descripción corta de qué hiciste y qué aprendiste.
-
-**[NOMBRE DEL PROYECTO](https://github.com/gabrielatorresrz/NOMBRE-DEL-REPO)**: descripción corta.
+**[Batch Annealing Model for Cold Rolled Coils](https://github.com/gabrielatorresrz/Steel-Manufacturing-Optimization)**: descripción corta de qué hiciste y qué aprendiste.
 
 ## ✦ g day to day
 
 <!-- GALERÍA: tres fotos en fila; width="32%" hace que quepan juntas -->
 <p align="center">
-  <img src="assets/foto1.jpg" width="32%">
-  <img src="assets/foto2.jpg" width="32%">
-  <img src="assets/foto3.jpg" width="32%">
+  <img src="assets/xout.jpeg" width="32%">
+  <img src="assets/cupie.jpeg" width="32%">
+  <img src="assets/ring.jpeg" width="32%">
 </p>
-
-ESCRIBE AQUÍ TUS HOBBIES
 
 ![Cheer](https://img.shields.io/badge/Cheer-FF3EA5?style=for-the-badge&logo=starship&logoColor=F7F3FF)
 ![Gym](https://img.shields.io/badge/Gym-0039A6?style=for-the-badge&logo=strava&logoColor=F7F3FF)
@@ -45,11 +43,11 @@ ESCRIBE AQUÍ TUS HOBBIES
 <!-- Borra el que no quieras usar -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0039A6?style=for-the-badge&logo=linkedin&logoColor=F7F3FF)]([https://www.linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/gabrielatorresrz/))
 [![Email](https://img.shields.io/badge/Email-FF3EA5?style=for-the-badge&logo=gmail&logoColor=F7F3FF)](mailto:torresruizanagabriela@gmail.com)
-![visitas](https://komarev.com/ghpvc/?username=gabrielatorresrz&style=for-the-badge&color=3DDCFF&label=visitas)
+![views](https://komarev.com/ghpvc/?username=gabrielatorresrz&style=for-the-badge&color=3DDCFF&label=visitas)
 
 <!-- CIERRE: una última foto -->
 <p align="center">
-  <img src="assets/cierre.jpg" alt="cierre" width="100%">
+  <img src="assets/doble.gby.jpeg" alt="cierre" width="60">
 </p>
 
 <!--
