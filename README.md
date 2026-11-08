@@ -9,22 +9,22 @@
 
 <!-- Tu bio: 2 a 4 líneas, con tu tono -->
 just a girl trying to navigate the student-athlete life
-- 🔭 currently working on thermodynamics projects
-- 🌱 learning about AI and how to use it appropriately
+- currently working on thermodynamics projects
+- learning about AI and how to use it appropriately
 
 ## ✦ my skills
-
-![Python](https://img.shields.io/badge/Python-0039A6?style=for-the-badge&logo=python&logoColor=F7F3FF)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF3EA5?style=for-the-badge&logo=mathworks&logoColor=F7F3FF)
-![LaTeX](https://img.shields.io/badge/LaTeX-3DDCFF?style=for-the-badge&logo=latex&logoColor=070A1F)
-![Excel](https://img.shields.io/badge/Excel-0039A6?style=for-the-badge&logo=microsoftexcel&logoColor=F7F3FF)
-![Google Colab](https://img.shields.io/badge/Colab-FF3EA5?style=for-the-badge&logo=googlecolab&logoColor=F7F3FF)
-![VS Code](https://img.shields.io/badge/VS_Code-3DDCFF?style=for-the-badge&logo=visualstudiocode&logoColor=070A1F)
+<p align="center">
+  ![Python](https://img.shields.io/badge/Python-0039A6?style=for-the-badge&logo=python&logoColor=F7F3FF)
+  ![Git](https://img.shields.io/badge/Git-FF3EA5?style=for-the-badge&logo=mathworks&logoColor=F7F3FF)
+  ![LaTeX](https://img.shields.io/badge/LaTeX-3DDCFF?style=for-the-badge&logo=latex&logoColor=070A1F)
+  ![Excel](https://img.shields.io/badge/Excel-0039A6?style=for-the-badge&logo=microsoftexcel&logoColor=F7F3FF)
+  ![VS Code](https://img.shields.io/badge/VS_Code-3DDCFF?style=for-the-badge&logo=visualstudiocode&logoColor=070A1F)
+</p>
 
 ## ✦ stuff i've done
 
 <!-- Copia este bloque por cada proyecto -->
-**[Batch Annealing Model for Cold Rolled Coils](https://github.com/gabrielatorresrz/Steel-Manufacturing-Optimization)**: descripción corta de qué hiciste y qué aprendiste.
+**[Steel Manufacturing Optimization](https://github.com/gabrielatorresrz/Steel-Manufacturing-Optimization)**: thermodynamics project focused on the optimization of time during the batch annealing process of steel coils (still in progress, ignore any weird stuff).
 
 ## ✦ g day to day
 
